@@ -7,7 +7,7 @@ let options =
     // Set the channel name.
     channel: 'Navatar',
     // Pass your temp token here.
-    token: '007eJxTYAg+tcVrj9/L1gvZfKzt0zmjn0huevIjuWXNjpZMyb699ooKDMmWRiZJKWZpSabmSSYmSYYWBpbJBuYmZknmFhbmpikWVmWcKQ2BjAx/qhKYGRkgEMRnZ/BLLEssSSxiYAAAs7YgEg==',
+    token: '007eJxTYNBaef3B3SUfrDbItx9YbtHxKHe3kXgzS1SegcWd00x/1DcoMCRbGpkkpZilJZmaJ5mYJBlaGFgmG5ibmCWZW1iYm6ZYrBLnTmkIZGS44S7KysgAgSA+O4NfYlliSWIRAwMAzOQf0w==',
     // Set the user ID.
     uid: 0,
     // Set the user role
